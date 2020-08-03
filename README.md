@@ -1,5 +1,3 @@
-KEK WWWW
-
 # nyc-mhtn-ds-080320-lectures
 
 # Lecture Notes for nyc-mhtn-ds-080320 :floppy_disk:
